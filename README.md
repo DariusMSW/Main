@@ -7,6 +7,12 @@ Hier werden Bilder und dateien gespeichert die ich wiederholt brauche oder in an
 In Example ist ein Readme vorlage. Im ordner Images werden bilder für andere projekte gespeichert.
 
 ## Inhaltsverzeichnis
+-Exampel
+  README.md
+-Images
+  MSW_Logo.jpg
+  MSW_Text.jpg
+README.md
 
 ## Starten
 
