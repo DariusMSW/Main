@@ -1,10 +1,10 @@
-# Titel
+# Main Readme
 
-//kurze zusammenfassung
+Hier werden Bilder und dateien gespeichert die ich wiederholt brauche oder in anderen projekten.
 
 ## Beschreibung
 
-//Beschreibung
+In Example ist ein Readme vorlage. Im ordner Images werden bilder für andere projekte gespeichert.
 
 ## Inhaltsverzeichnis
 
