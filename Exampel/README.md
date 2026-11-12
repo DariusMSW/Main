@@ -17,4 +17,4 @@ Darius Damman\
 Ek25x6\
 26.11.12
 
-![MSW_Bild](https://www.msw.ch/web/wp-content/uploads/2022/01/Logo_msw_rechts.png)
+![MSW_Bild](https://github.com/DariusMSW/Main/blob/main/Images/Logo_msw_rechts.png)
