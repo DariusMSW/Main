@@ -6,7 +6,9 @@
 
 //Description
 
-## Table of Contents
+## Contents
+
+// In Windows, use the CMD command `tree /F` inside the Git folder for the Contents
 
 ## Getting Started
 
