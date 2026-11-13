@@ -12,6 +12,7 @@ Main/
 │   README.md
 │
 ├───Exampel
+│   │   C_ATmega2560_IPO_Template.zip
 │   │   README.md
 │   │
 │   └───Template_C_Executable_Project
@@ -40,7 +41,8 @@ Just copy the **README.md** file from the folder **Example** and paste it in you
 
 #### Simple use
 
-1. Download the Zip
+1. Download the Zip: [Download](https://github.com/DariusMSW/Main/blob/main/Exampel/C_ATmega2560_IPO_Template.zip)
+2. Go to your ProjectTemplates folder. **You may have to change the Username and or the drive.** **C:\Users\Username\Documents\Visual Studio 2015\Templates\ProjectTemplates\\**
 
 #### Custom Template
 1. You can simply download the Project folder (Example/Template_C_Executable_Project/).
