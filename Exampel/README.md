@@ -1,16 +1,16 @@
-# Titel
+# Title
 
-//kurze zusammenfassung
+//short summary
 
-## Beschreibung
+## Description
 
-//Beschreibung
+//Description
 
-## Inhaltsverzeichnis
+## Table of Contents
 
-## Starten
+## Getting Started
 
-//Anleitung um zu starten
+//Instructions to get started
 
 ## Author
 Darius Damman\
