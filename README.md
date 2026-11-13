@@ -40,17 +40,18 @@ Main/
 ### README
 
 Just copy the **README.md** file from the **Example** folder and paste it into your repository.
+[Link to README](https://github.com/DariusMSW/Main/blob/main/Exampel/README.md)
 
 ### Microchip Studio Template C with IPO
 
 #### Simple Use
 
-1. Download the ZIP file: [Link to Download](https://github.com/DariusMSW/Main/blob/main/Exampel/C_ATmega2560_IPO_Template.zip)
+1. Download the ZIP file: [Link to ZIP](https://github.com/DariusMSW/Main/blob/main/Exampel/C_ATmega2560_IPO_Template.zip)
 2. Go to your `ProjectTemplates` folder. **You may have to change the username and/or the drive:** `C:\Users\Username\Documents\Visual Studio 2015\Templates\ProjectTemplates\`
 
 #### Custom Template
 
-1. You can simply download the project folder (`Example/Template_C_Executable_Project/`).
+1. You can simply download the project folder zip (`Main/Exampel/Template_C_Executable_Project.zip`). [link to ZIP](https://github.com/DariusMSW/Main/tree/main/Exampel/Template_C_Executable_Project)
 2. Then you can open it with Microchip Studio. Maybe you want to edit the template.
 3. After that, you can go to **File -> Export Template**.
 
